@@ -1,0 +1,7 @@
+project_id = "vnvfsvnttlyukactgegv"
+
+[functions.chiku-chat]
+verify_jwt = false
+
+[functions.chiku-commands]
+verify_jwt = false
