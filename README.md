@@ -73,6 +73,6 @@ It feels friendly, playful, and intelligent — just like chatting with a smart 
 </p>
 
 <p align="center">
-  ✨ Built with passion by <b>Murali</b><br>
+  ✨ Built with passion by <b>Murali & Anya</b><br>
   <i>Where AI meets aesthetics.</i>
 </p>
