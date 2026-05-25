@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="./public/main.jpg" alt="Chiku AI Banner" width="80%">
+  <img src="/public/main.png" alt="Chiku AI Banner" width="80%">
 </p>
 
 ---
@@ -49,8 +49,6 @@ It feels friendly, playful, and intelligent — just like chatting with a smart 
 🖼️ **AI Image Generation**  
 - Generate stunning images directly from prompts  
 
-🔊 **Text-to-Speech (TTS)**  
-- Convert AI responses into natural-sounding voice  
 
 🐱 **Nekos Mode**  
 - Cute & fun neko-style responses and images  
@@ -62,20 +60,13 @@ It feels friendly, playful, and intelligent — just like chatting with a smart 
 - Fully responsive for all devices  
 
 ⚡ **Frontend Tech Stack**  
-- TypeScript  
-- React  
-- Vite  
-- HTML, CSS, JavaScript  
+- Javascript 
+- React    
+  
 
 ---
 
-## 📸 Preview
 
-<p align="center">
-  <img src="./public/ss.jpg" width="90%" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
